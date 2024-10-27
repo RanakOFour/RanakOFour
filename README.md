@@ -1,4 +1,4 @@
-Currently studying Games Software Engineering at Uni
+Currently studying Games Software Engineering at University
 
 Experienced with CPP, C#, Lua and Python
 
